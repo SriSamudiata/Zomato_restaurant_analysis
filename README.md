@@ -7,6 +7,8 @@
 - [Tools Used](#-tools-used)
 - [Project Objective](#-project-objective)
 - [Key Questions Addressed](#-key-questions-addressed)
+- [Data Source](#-data-source)
+- [Dataset Information](#-dataset-information)
 - [Project Workflow](#-project-workflow)
 - [Key Insights](#-key-insights)
 - [Files Included](#-files-included)
@@ -37,6 +39,47 @@ The objective of this project is to analyze the Zomato restaurant dataset and ex
 - How are restaurant ratings distributed?
 - What is the impact of online delivery on ratings?
 - What is the relationship between cost and ratings?
+
+---
+
+## Data Source
+
+The dataset used in this project is obtained from **Kaggle**.
+
+- Dataset Platform: Kaggle
+- Dataset Name: Zomato Restaurants Data
+- Source: https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data
+  
+Used for educational purpose only and belongs to rightful owners.
+---
+
+## Dataset Information
+
+The dataset contains information about restaurants listed on Zomato, including:
+
+• Restaurant Id: Unique id of every restaurant across various cities of the world
+• Restaurant Name: Name of the restaurant
+• Country Code: Country in which restaurant is located
+• City: City in which restaurant is located
+• Address: Address of the restaurant
+• Locality: Location in the city
+• Locality Verbose: Detailed description of the locality
+• Longitude: Longitude coordinate of the restaurant's location
+• Latitude: Latitude coordinate of the restaurant's location
+• Cuisines: Cuisines offered by the restaurant
+• Average Cost for two: Cost for two people in different currencies 
+• Currency: Currency of the country
+• Has Table booking: yes/no
+• Has Online delivery: yes/ no
+• Is delivering: yes/ no
+• Switch to order menu: yes/no
+• Price range: range of price of food
+• Aggregate Rating: Average rating out of 5
+• Rating color: depending upon the average rating color
+• Rating text: text on the basis of rating of rating
+• Votes: Number of ratings casted by people
+
+This data is used for analyzing restaurant trends and customer preferences.
 
 ---
 
